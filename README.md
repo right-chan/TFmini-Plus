@@ -1,6 +1,6 @@
 # TFmini-Plus
 
-```Arduino
+```C++
 #include "TFmini.h"
 
 TFmini TF;
